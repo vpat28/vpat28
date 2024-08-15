@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://github.com/vpat28/Images/blob/main/ezgif-5-ed6527f6f2.gif">
+    <img src="https://github.com/vpat28/Images/blob/main/name%20gif.gif">
 </p>
-##🎓 Education
+<h2 align="left">🎓 Education</h2>
 <p align="left"> 
     <img src="https://github.com/vpat28/Images/blob/main/University_of_Miami_logo.svg.png" alt="android" width="200" height="100"/> 
 </p>
