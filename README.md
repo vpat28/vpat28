@@ -1,7 +1,6 @@
-
-<h1 align="center">Hi 👋, I'm Vraj Patel</h1>
-
-
+<p align="center">
+    <img src="https://github.com/vpat28/Images/blob/main/ezgif-5-ed6527f6f2.gif">
+</p>
 ## 🎓 Education
 <p align="left"> 
     <img src="https://github.com/vpat28/Images/blob/main/University_of_Miami_logo.svg.png" alt="android" width="200" height="100"/> 
