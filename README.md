@@ -1,4 +1,4 @@
-# 🌟 Project Title
+# About Me
 
 ![Header Image]([https://via.placeholder.com/1000x300.png?text=Your+Project+Title](https://upload.wikimedia.org/wikipedia/commons/0/0a/University_of_Miami_logo.svg))
 
