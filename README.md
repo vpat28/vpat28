@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kumar+One&size=30&pause=1000&color=1AF7A6&center=true&width=435&lines=Vraj+Patel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kumar+One&size=47&pause=1000&color=1AF7A6&center=true&width=450&height=80&lines=Vraj+Patel)](https://git.io/typing-svg)
 <h2 align="left">🎓 Education</h2>
 <p align="left"> 
     <img href= "https://welcome.miami.edu/" src="https://github.com/vpat28/Images/blob/main/University_of_Miami_logo.svg.png" alt="android" width="200" height="100"/> 
