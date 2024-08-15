@@ -93,4 +93,4 @@ and
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vpat28&show_icons=true&locale=en" alt="vpat28" /></p>
 
-<img href= "https://jmfamily.com/" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5qa2NrMHN2Y2tzbW15c296MWZvYmsxc3puMmo2ZWxiNmphMzVxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SiGI1jiQGBoWsfnTZb/giphy.gif" alt="android" width="200" height="100"/> 
+
