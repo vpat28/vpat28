@@ -1,7 +1,7 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kumar+One&size=47&pause=1000&color=1AF7A6&center=true&width=450&height=80&lines=Vraj+Patel)](https://git.io/typing-svg)
-<h2 align="left">🎓 Education</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Barcode+39+Text&size=47&pause=1000&color=00DCE4&width=450&height=80&lines=Welcome)](https://git.io/typing-svg)
+<h2 align="left">🎓 My Education</h2>
 <p align="left"> 
     <img href= "https://welcome.miami.edu/" src="https://github.com/vpat28/Images/blob/main/University_of_Miami_logo.svg.png" alt="android" width="200" height="100"/> 
 </p>
@@ -68,6 +68,9 @@ and
 <p align="left">
 <a href="https://linkedin.com/in/vrajpatel28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrajpatel28" height="30" width="40" /></a>
 </p>
+<h3 align="left">Comedy:</h3>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=nightowl&qColor=%23944bcc&aColor=%23bbdb51)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vpat28&show_icons=true&locale=en&layout=compact" alt="vpat28" /></p>
 
