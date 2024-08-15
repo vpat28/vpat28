@@ -79,9 +79,18 @@ and
 </p>
 
 ## Comedy: 
+<div class="row">
+    <div class="column">
+    </div>
+    <div class="column">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5qa2NrMHN2Y2tzbW15c296MWZvYmsxc3puMmo2ZWxiNmphMzVxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SiGI1jiQGBoWsfnTZb/giphy.gif" alt="Forest" style="width:100%">
+    </div>
+</div>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=nightowl&qColor=%23944bcc&aColor=%23bbdb51)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vpat28&show_icons=true&locale=en&layout=compact" alt="vpat28" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vpat28&show_icons=true&locale=en" alt="vpat28" /></p>
+
+<img href= "https://jmfamily.com/" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5qa2NrMHN2Y2tzbW15c296MWZvYmsxc3puMmo2ZWxiNmphMzVxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SiGI1jiQGBoWsfnTZb/giphy.gif" alt="android" width="200" height="100"/> 
