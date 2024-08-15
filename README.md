@@ -14,7 +14,7 @@ Software Analyst at JM Family Enterprises
 
 <h2 align="left">🎓 My Education</h2>
 <p align="left"> 
-    <img href= "https://welcome.miami.edu/" src="https://github.com/vpat28/Images/blob/main/University_of_Miami_logo.svg.png" alt="android" width="200" height="100"/> 
+    <img href= "https://welcome.miami.edu/" src="https://github.com/vpat28/Images/blob/main/University_of_Miami_logo.svg.png" alt="Umiami" width="200" height="100"/> 
 </p>
 B.S. in
 <a href="https://bulletin.miami.edu/undergraduate-academic-programs/arts-sciences/computer-science/computer-science-bs-students-arts-sciences/#curriculumtext">
