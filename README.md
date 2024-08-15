@@ -2,11 +2,28 @@
 <h1 align="center">Hi 👋, I'm Vraj Patel</h1>
 
 
-## 🚀 Education
+## 🎓 Education
+<p align="left"> 
+    <img src="https://github.com/vpat28/Images/blob/main/University_of_Miami_logo.svg.png" alt="android" width="200" height="100"/> 
+</p>
+B.S. in
+<a href="https://bulletin.miami.edu/undergraduate-academic-programs/arts-sciences/computer-science/computer-science-bs-students-arts-sciences/#curriculumtext">
+Computer Science
+</a> 
+and 
+<a href="https://bulletin.miami.edu/undergraduate-academic-programs/arts-sciences/history/history-ba/#curriculumtext">
+    History
+</a>
 
-B.S. in Computer Science and History
 
-Dual minors in Mathematics and Political Science
+With dual minors in 
+<a href="https://bulletin.miami.edu/undergraduate-academic-programs/arts-sciences/mathematics/mathematics-minor/#curriculumtext">
+    Mathematics
+</a> 
+and 
+<a href="https://bulletin.miami.edu/undergraduate-academic-programs/arts-sciences/political-science/political-science-minor/">
+    Political Science
+</a>
 
 
 
@@ -15,7 +32,7 @@ Dual minors in Mathematics and Political Science
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+c <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
