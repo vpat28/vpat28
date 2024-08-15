@@ -4,12 +4,12 @@
 
 # About Me
 
-## My Position
+## 🧑🏽‍💻My Position
 <img href= "https://jmfamily.com/" src="https://github.com/vpat28/Images/blob/main/JM-Family-Logo.jpg" alt="android" width="200" height="100"/> 
 </p>
-</p>
+
 Software Analyst at JM Family Enterprises
-</a> 
+
 
 
 <h2 align="left">🎓 My Education</h2>
