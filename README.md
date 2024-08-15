@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Barcode+39+Text&size=47&pause=1000&color=00DCE4&width=450&height=80&lines=Welcome)](https://git.io/typing-svg)
 
-# About Me
+# ----About Me----
 
-## 🧑🏽‍💻My Position
+## 🧑🏽‍💻My Position:
 <img href= "https://jmfamily.com/" src="https://github.com/vpat28/Images/blob/main/JM-Family-Logo.jpg" alt="android" width="200" height="100"/> 
 </p>
 
@@ -12,7 +12,7 @@ Software Analyst at JM Family Enterprises
 
 
 
-<h2 align="left">🎓 My Education</h2>
+<h2 align="left">🎓 My Education: </h2>
 <p align="left"> 
     <img href= "https://welcome.miami.edu/" src="https://github.com/vpat28/Images/blob/main/University_of_Miami_logo.svg.png" alt="Umiami" width="200" height="100"/> 
 </p>
