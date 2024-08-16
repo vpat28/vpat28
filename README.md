@@ -8,7 +8,7 @@
 <img href= "https://jmfamily.com/" src="https://github.com/vpat28/Images/blob/main/JM-Family-Logo.jpg" alt="android" width="200" height="100"/> 
 </p>
 
-Software Analyst at JM Family Enterprises
+Software Engineer at JM Family Enterprises
 
 
 
